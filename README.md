@@ -5,7 +5,8 @@ A neuroscience data analysis project exploring how mouse visual cortex neurons a
 ## How It's Made
 
 Tech used:
-Python, NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV, Jupyter Notebook, Allen Brain Observatory dataset
+Python, NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV, Jupyter Notebook, Allen Brain Observatory dataset.
+
 This project investigates neural adaptation—the reduction in neuronal firing when a stimulus is repeated. Using large-scale electrophysiology data from mice, the project includes:
 
 Classification of neurons into RS and FS using waveform duration and firing rate
